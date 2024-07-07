@@ -4,7 +4,7 @@
 <div align="center">
   <h3 style="color:#FF69B4; font-family:Cursive;">Olá, somos a Desbravalink</h3>
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=kleysongomes&color=000000&style=flat-square" alt="Contador de Visitas" />
+    <img src="https://komarev.com/ghpvc/?username=desbravalink&color=000000&style=flat-square" alt="Contador de Visitas" />
   </p>
 </div>
 
